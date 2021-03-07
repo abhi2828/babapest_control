@@ -1098,6 +1098,7 @@ footer .btn-gamp input {
 
 .contact-info ul li i {
     margin-bottom: 20px;
+    font-weight: 700;
 }
 
 .widget {
@@ -1633,5 +1634,19 @@ footer .btn-gamp input {
 .copyright {
     margin-top: 15px;
     text-align: center;
+}
+.gallery{
+    padding: 0px;
+}
+ul.social-network {
+    display: flex;
+    justify-content: space-between;
+}
+p.about_para {
+    padding: 0px 5%;
+}
+.col-md-3.wow.fadeInDown.animated {
+    height: 45vh;
+    padding: 15px;
 }
 }
